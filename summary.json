@@ -1,0 +1,302 @@
+{
+  "n_nodes": 1200,
+  "n_edges": 3590,
+  "avg_degree": 5.983,
+  "density": 0.00499,
+  "diameter_lcc": 6,
+  "avg_path_length_lcc": 3.5565,
+  "avg_clustering": 0.1002,
+  "lcc_fraction": 1.0,
+  "random_graph_clustering": 0.00332,
+  "random_graph_avg_path_length": 4.1712,
+  "num_communities": 29,
+  "modularity_Q": 0.6428,
+  "top_degree": [
+    {
+      "node": 3,
+      "nama": "Sari Nugroho",
+      "peran": "Ketua Umum",
+      "divisi": "Keuangan",
+      "skor": 0.1118
+    },
+    {
+      "node": 2,
+      "nama": "Hana Maulana",
+      "peran": "Sekretaris Umum",
+      "divisi": "Kesekretariatan",
+      "skor": 0.0984
+    },
+    {
+      "node": 4,
+      "nama": "Leo Halawa",
+      "peran": "Bendahara Umum",
+      "divisi": "Pengembangan SDM",
+      "skor": 0.0634
+    },
+    {
+      "node": 6,
+      "nama": "Farhan Santoso",
+      "peran": "Anggota",
+      "divisi": "Kelompok-12",
+      "skor": 0.0509
+    },
+    {
+      "node": 11,
+      "nama": "Bella Halawa",
+      "peran": "Koordinator Divisi Hubungan Masyarakat",
+      "divisi": "Hubungan Masyarakat",
+      "skor": 0.0409
+    },
+    {
+      "node": 5,
+      "nama": "Lukman Nasution",
+      "peran": "Koordinator Divisi Minat & Bakat",
+      "divisi": "Minat & Bakat",
+      "skor": 0.0375
+    },
+    {
+      "node": 1,
+      "nama": "Dewi Lestari",
+      "peran": "Koordinator Divisi Penelitian & Keilmuan",
+      "divisi": "Penelitian & Keilmuan",
+      "skor": 0.0359
+    },
+    {
+      "node": 19,
+      "nama": "Wisnu Kurniawan",
+      "peran": "Anggota",
+      "divisi": "Kelompok-9",
+      "skor": 0.035
+    },
+    {
+      "node": 30,
+      "nama": "Panji Ramadhan",
+      "peran": "Anggota",
+      "divisi": "Kelompok-15",
+      "skor": 0.0334
+    },
+    {
+      "node": 0,
+      "nama": "Gilbert Utami",
+      "peran": "Anggota",
+      "divisi": "Minat & Bakat",
+      "skor": 0.03
+    }
+  ],
+  "top_betweenness": [
+    {
+      "node": 3,
+      "nama": "Sari Nugroho",
+      "peran": "Ketua Umum",
+      "divisi": "Keuangan",
+      "skor": 0.297
+    },
+    {
+      "node": 2,
+      "nama": "Hana Maulana",
+      "peran": "Sekretaris Umum",
+      "divisi": "Kesekretariatan",
+      "skor": 0.2062
+    },
+    {
+      "node": 6,
+      "nama": "Farhan Santoso",
+      "peran": "Anggota",
+      "divisi": "Kelompok-12",
+      "skor": 0.1587
+    },
+    {
+      "node": 4,
+      "nama": "Leo Halawa",
+      "peran": "Bendahara Umum",
+      "divisi": "Pengembangan SDM",
+      "skor": 0.1202
+    },
+    {
+      "node": 11,
+      "nama": "Bella Halawa",
+      "peran": "Koordinator Divisi Hubungan Masyarakat",
+      "divisi": "Hubungan Masyarakat",
+      "skor": 0.061
+    },
+    {
+      "node": 15,
+      "nama": "Wisnu Permata",
+      "peran": "Anggota",
+      "divisi": "Kelompok-10",
+      "skor": 0.0593
+    },
+    {
+      "node": 1,
+      "nama": "Dewi Lestari",
+      "peran": "Koordinator Divisi Penelitian & Keilmuan",
+      "divisi": "Penelitian & Keilmuan",
+      "skor": 0.0552
+    },
+    {
+      "node": 30,
+      "nama": "Panji Ramadhan",
+      "peran": "Anggota",
+      "divisi": "Kelompok-15",
+      "skor": 0.0496
+    },
+    {
+      "node": 14,
+      "nama": "Laila Pratama",
+      "peran": "Anggota",
+      "divisi": "Kelompok-18",
+      "skor": 0.0473
+    },
+    {
+      "node": 0,
+      "nama": "Gilbert Utami",
+      "peran": "Anggota",
+      "divisi": "Minat & Bakat",
+      "skor": 0.0458
+    }
+  ],
+  "top_closeness": [
+    {
+      "node": 3,
+      "nama": "Sari Nugroho",
+      "peran": "Ketua Umum",
+      "divisi": "Keuangan",
+      "skor": 0.4509
+    },
+    {
+      "node": 2,
+      "nama": "Hana Maulana",
+      "peran": "Sekretaris Umum",
+      "divisi": "Kesekretariatan",
+      "skor": 0.4225
+    },
+    {
+      "node": 4,
+      "nama": "Leo Halawa",
+      "peran": "Bendahara Umum",
+      "divisi": "Pengembangan SDM",
+      "skor": 0.4085
+    },
+    {
+      "node": 6,
+      "nama": "Farhan Santoso",
+      "peran": "Anggota",
+      "divisi": "Kelompok-12",
+      "skor": 0.4041
+    },
+    {
+      "node": 11,
+      "nama": "Bella Halawa",
+      "peran": "Koordinator Divisi Hubungan Masyarakat",
+      "divisi": "Hubungan Masyarakat",
+      "skor": 0.3812
+    },
+    {
+      "node": 5,
+      "nama": "Lukman Nasution",
+      "peran": "Koordinator Divisi Minat & Bakat",
+      "divisi": "Minat & Bakat",
+      "skor": 0.3798
+    },
+    {
+      "node": 1,
+      "nama": "Dewi Lestari",
+      "peran": "Koordinator Divisi Penelitian & Keilmuan",
+      "divisi": "Penelitian & Keilmuan",
+      "skor": 0.3797
+    },
+    {
+      "node": 10,
+      "nama": "Dewi Manurung",
+      "peran": "Koordinator Divisi Acara & Kegiatan",
+      "divisi": "Acara & Kegiatan",
+      "skor": 0.378
+    },
+    {
+      "node": 0,
+      "nama": "Gilbert Utami",
+      "peran": "Anggota",
+      "divisi": "Minat & Bakat",
+      "skor": 0.3769
+    },
+    {
+      "node": 8,
+      "nama": "Dian Maulana",
+      "peran": "Anggota",
+      "divisi": "Kelompok-11",
+      "skor": 0.3767
+    }
+  ],
+  "top_eigenvector": [
+    {
+      "node": 3,
+      "nama": "Sari Nugroho",
+      "peran": "Ketua Umum",
+      "divisi": "Keuangan",
+      "skor": 0.618
+    },
+    {
+      "node": 20,
+      "nama": "Nadia Saputra",
+      "peran": "Wakil Ketua",
+      "divisi": "Keuangan",
+      "skor": 0.4522
+    },
+    {
+      "node": 71,
+      "nama": "Salma Prasetyo",
+      "peran": "Koordinator Divisi Keuangan",
+      "divisi": "Keuangan",
+      "skor": 0.1726
+    },
+    {
+      "node": 2,
+      "nama": "Hana Maulana",
+      "peran": "Sekretaris Umum",
+      "divisi": "Kesekretariatan",
+      "skor": 0.1543
+    },
+    {
+      "node": 244,
+      "nama": "Ahmad Simanjuntak",
+      "peran": "Anggota",
+      "divisi": "Keuangan",
+      "skor": 0.1542
+    },
+    {
+      "node": 23,
+      "nama": "Chandra Prasetyo",
+      "peran": "Anggota",
+      "divisi": "Kelompok-20",
+      "skor": 0.1518
+    },
+    {
+      "node": 566,
+      "nama": "Jihan Prasetyo",
+      "peran": "Anggota",
+      "divisi": "Keuangan",
+      "skor": 0.1403
+    },
+    {
+      "node": 141,
+      "nama": "Wahyu Halim",
+      "peran": "Anggota",
+      "divisi": "Keuangan",
+      "skor": 0.1364
+    },
+    {
+      "node": 1123,
+      "nama": "Ulfa Kusuma",
+      "peran": "Anggota",
+      "divisi": "Keuangan",
+      "skor": 0.1322
+    },
+    {
+      "node": 1003,
+      "nama": "Sari Kurniawan",
+      "peran": "Anggota",
+      "divisi": "Keuangan",
+      "skor": 0.1314
+    }
+  ]
+}

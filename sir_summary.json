@@ -1,0 +1,18 @@
+{
+  "node_kunci": {
+    "id": 3,
+    "nama": "Sari Nugroho",
+    "peran": "Ketua Umum"
+  },
+  "node_acak_rendah": {
+    "id": 609,
+    "nama": "Nadia Maulana",
+    "peran": "Anggota"
+  },
+  "skenario_A_waktu_puncak": 16,
+  "skenario_A_puncak_infected": 320,
+  "skenario_A_jangkauan_akhir": 888,
+  "skenario_B_waktu_puncak": 26,
+  "skenario_B_puncak_infected": 407,
+  "skenario_B_jangkauan_akhir": 1009
+}
